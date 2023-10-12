@@ -1,0 +1,300 @@
+
+Test Case: 0003.txt
+Run Time is: 3.3454453999875113[s]
+
+Test Case: 0006.txt
+Run Time is: 3.397419099987019[s]
+
+Test Case: 0012.txt
+Run Time is: 3.594672699982766[s]
+
+Test Case: 0024.txt
+Run Time is: 3.6946579999639653[s]
+
+Test Case: 0015.txt
+Run Time is: 3.7895935000269674[s]
+
+Test Case: 0018.txt
+Run Time is: 3.8196449000388384[s]
+
+Test Case: 0027.txt
+Run Time is: 3.8394023000146262[s]
+
+Test Case: 0009.txt
+Run Time is: 3.899297799973283[s]
+
+Test Case: 0021.txt
+Run Time is: 4.003397599968594[s]
+
+Test Case: 0000.txt
+Run Time is: 4.45649539999431[s]
+
+Test Case: 0004.txt
+Run Time is: 3.2575693000108004[s]
+
+Test Case: 0016.txt
+Run Time is: 2.7675784999737516[s]
+
+Test Case: 0025.txt
+Run Time is: 3.0290072000352666[s]
+
+Test Case: 0007.txt
+Run Time is: 3.6690479000099003[s]
+
+Test Case: 0013.txt
+Run Time is: 3.3860132999834605[s]
+
+Test Case: 0022.txt
+Run Time is: 2.9938105000182986[s]
+
+Test Case: 0010.txt
+Run Time is: 3.6623110999935307[s]
+
+Test Case: 0019.txt
+Run Time is: 3.898788800055627[s]
+
+Test Case: 0001.txt
+Run Time is: 3.275052600016352[s]
+
+Test Case: 0028.txt
+Run Time is: 3.62792369996896[s]
+
+Test Case: 0008.txt
+Run Time is: 3.512903399998322[s]
+
+Test Case: 0026.txt
+Run Time is: 3.639981600048486[s]
+
+Test Case: 0014.txt
+Run Time is: 3.4145843000151217[s]
+
+Test Case: 0005.txt
+Run Time is: 4.385232600034215[s]
+
+Test Case: 0017.txt
+Run Time is: 3.839952100010123[s]
+
+Test Case: 0023.txt
+Run Time is: 3.5537697999970987[s]
+
+Test Case: 0011.txt
+Run Time is: 3.456421600014437[s]
+
+Test Case: 0020.txt
+Run Time is: 3.4205006000120193[s]
+
+Test Case: 0029.txt
+Run Time is: 3.2515717000351287[s]
+
+Test Case: 0002.txt
+Run Time is: 3.4706425000331365[s]
+
+Test Case: 0030.txt
+Run Time is: 3.1922779000015[s]
+
+Test Case: 0033.txt
+Run Time is: 3.2563814999884926[s]
+
+Test Case: 0039.txt
+Run Time is: 2.9184603999601677[s]
+
+Test Case: 0036.txt
+Run Time is: 3.2211342999944463[s]
+
+Test Case: 0045.txt
+Run Time is: 2.998889299982693[s]
+
+Test Case: 0042.txt
+Run Time is: 3.172018699988257[s]
+
+Test Case: 0048.txt
+Run Time is: 3.4593296000384726[s]
+
+Test Case: 0051.txt
+Run Time is: 3.654917799984105[s]
+
+Test Case: 0054.txt
+Run Time is: 3.565224700025283[s]
+
+Test Case: 0057.txt
+Run Time is: 3.545926899998449[s]
+
+Test Case: 0037.txt
+Run Time is: 3.0216907000285573[s]
+
+Test Case: 0031.txt
+Run Time is: 3.6088196000200696[s]
+
+Test Case: 0040.txt
+Run Time is: 3.6297327000065707[s]
+
+Test Case: 0034.txt
+Run Time is: 3.359740200045053[s]
+
+Test Case: 0049.txt
+Run Time is: 2.8575487000052817[s]
+
+Test Case: 0052.txt
+Run Time is: 3.0422010999755003[s]
+
+Test Case: 0043.txt
+Run Time is: 3.483101399964653[s]
+
+Test Case: 0046.txt
+Run Time is: 4.050797600008082[s]
+
+Test Case: 0058.txt
+Run Time is: 3.004358800011687[s]
+
+Test Case: 0055.txt
+Run Time is: 3.3025632000062615[s]
+
+Test Case: 0032.txt
+Run Time is: 3.2318499999819323[s]
+
+Test Case: 0038.txt
+Run Time is: 3.5675853000138886[s]
+
+Test Case: 0041.txt
+Run Time is: 3.317167899978813[s]
+
+Test Case: 0035.txt
+Run Time is: 3.470671000017319[s]
+
+Test Case: 0050.txt
+Run Time is: 3.46645459998399[s]
+
+Test Case: 0053.txt
+Run Time is: 3.4431287000188604[s]
+
+Test Case: 0044.txt
+Run Time is: 3.441971599997487[s]
+
+Test Case: 0059.txt
+Run Time is: 3.2095967999775894[s]
+
+Test Case: 0047.txt
+Run Time is: 3.746099999989383[s]
+
+Test Case: 0056.txt
+Run Time is: 3.5136631000204943[s]
+
+Test Case: 0060.txt
+Run Time is: 3.3914501999970526[s]
+
+Test Case: 0072.txt
+Run Time is: 3.1199439999763854[s]
+
+Test Case: 0069.txt
+Run Time is: 3.415772599983029[s]
+
+Test Case: 0063.txt
+Run Time is: 3.9897406000527553[s]
+
+Test Case: 0066.txt
+Run Time is: 3.9610893999924883[s]
+
+Test Case: 0075.txt
+Run Time is: 3.6873063999810256[s]
+
+Test Case: 0081.txt
+Run Time is: 3.588871099986136[s]
+
+Test Case: 0078.txt
+Run Time is: 3.9114537999848835[s]
+
+Test Case: 0084.txt
+Run Time is: 3.8634715999942273[s]
+
+Test Case: 0087.txt
+Run Time is: 4.212286900030449[s]
+
+Test Case: 0064.txt
+Run Time is: 2.951530799968168[s]
+
+Test Case: 0061.txt
+Run Time is: 3.833359400043264[s]
+
+Test Case: 0073.txt
+Run Time is: 3.4626476999837905[s]
+
+Test Case: 0070.txt
+Run Time is: 3.7129458999843337[s]
+
+Test Case: 0076.txt
+Run Time is: 3.097624799993355[s]
+
+Test Case: 0082.txt
+Run Time is: 3.375207600009162[s]
+
+Test Case: 0067.txt
+Run Time is: 3.737701300007757[s]
+
+Test Case: 0079.txt
+Run Time is: 3.2733859000145458[s]
+
+Test Case: 0085.txt
+Run Time is: 3.5006073000258766[s]
+
+Test Case: 0088.txt
+Run Time is: 3.8053419000352733[s]
+
+Test Case: 0065.txt
+Run Time is: 3.3671602999675088[s]
+
+Test Case: 0062.txt
+Run Time is: 3.8689154000021517[s]
+
+Test Case: 0077.txt
+Run Time is: 3.8256162999896333[s]
+
+Test Case: 0080.txt
+Run Time is: 3.6409711000160314[s]
+
+Test Case: 0071.txt
+Run Time is: 4.124863900011405[s]
+
+Test Case: 0074.txt
+Run Time is: 3.862968900008127[s]
+
+Test Case: 0083.txt
+Run Time is: 3.4642510000267066[s]
+
+Test Case: 0068.txt
+Run Time is: 4.247267400030978[s]
+
+Test Case: 0086.txt
+Run Time is: 3.9108421000419185[s]
+
+Test Case: 0089.txt
+Run Time is: 3.811242099967785[s]
+
+Test Case: 0090.txt
+Run Time is: 2.9787140000262298[s]
+
+Test Case: 0093.txt
+Run Time is: 3.099998800025787[s]
+
+Test Case: 0099.txt
+Run Time is: 3.0118228999781422[s]
+
+Test Case: 0096.txt
+Run Time is: 3.526509099989198[s]
+
+Test Case: 0094.txt
+Run Time is: 2.099472500034608[s]
+
+Test Case: 0091.txt
+Run Time is: 2.6961636999621987[s]
+
+Test Case: 0097.txt
+Run Time is: 2.0971881999867037[s]
+
+Test Case: 0095.txt
+Run Time is: 1.9242913000052795[s]
+
+Test Case: 0092.txt
+Run Time is: 1.9187117000110447[s]
+
+Test Case: 0098.txt
+Run Time is: 2.077385400014464[s]
